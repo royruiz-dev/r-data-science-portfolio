@@ -2,7 +2,7 @@
 
 This portfolio highlights three projects developed using `R`, covering data processing, machine learning, and interactive dashboards for business analytics.
 
-### 🤖 [Machine Learning](https://github.com/yourusername/r-machine-learning-journal)
+### 🤖 [Machine Learning](https://github.com/royruiz-dev/r-machine-learning-journal)
 
 Applied supervised learning for prediction, evaluated model performance, and used LIME for explainability.
 
@@ -10,7 +10,7 @@ Applied supervised learning for prediction, evaluated model performance, and use
 
 > Access available on request – contact me via [LinkedIn](https://www.linkedin.com/in/royruiz083/) or [email](mailto:ask.royruiz@gmail.com)
 
-### 📊 [Data Applications](https://github.com/yourusername/r-data-applications)
+### 📊 [Data Applications](https://github.com/royruiz-dev/r-data-applications)
 
 Designed and deployed interactive dashboards with Shiny to enable data-driven decisions.
 
